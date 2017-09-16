@@ -1,0 +1,83 @@
+body {
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 26px;
+    color: #5e5e5e;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 27px;
+    line-height: 1.444em;
+    /* 39px/27px */
+}
+
+h2 {
+    font-size: 22px;
+    line-height: 1.59em;
+    /* 35px/22px */
+}
+
+h3 {
+    font-size: 17px;
+    line-height: 1.71em;
+    /* 29px/17px */
+}
+
+h4 {
+    font-size: 15px;
+    line-height: 1.65em;
+    /* 25px/15px */
+}
+
+h5 {
+    color: #303030;
+    font-size: 13px;
+    line-height: 2em;
+    /* 26px/13px */
+    letter-spacing: 0.22em;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+h6 {
+    font-size: 12px;
+    line-height: 2em;
+    /* 24px/12px */
+}
+
+h1, h2, h3, h4, h6 {
+    color: #0f0f0f;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    line-height: inherit;
+    letter-spacing: inherit;
+    text-transform: inherit;
+}
+
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
+    color: #303030;
+}
+
+a,
+p a {
+    color: #303030;
+}
+
+p {
+    margin: 0 0 25px;
+}
