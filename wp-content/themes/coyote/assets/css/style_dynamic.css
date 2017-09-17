@@ -1,0 +1,94 @@
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/assets/custom-styles/general-custom-styles.php coyote_edge_design_styles function */
+.edgtf-preload-background { background-image: url(http://localhost/wp-content/themes/coyote/assets/img/preload_pattern.png) !important;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/assets/custom-styles/general-custom-styles.php coyote_edge_design_styles function */
+.edgtf-boxed .edgtf-wrapper { background-attachment: fixed;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/assets/custom-styles/general-custom-styles.php coyote_edge_h1_styles function */
+h1 { font-family: Fjalla One;font-size: 60px;letter-spacing: 3px;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/assets/custom-styles/general-custom-styles.php coyote_edge_h2_styles function */
+h2 { font-family: Lato;font-size: 45px;text-transform: uppercase;font-style: normal;font-weight: 300;letter-spacing: 15px;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/assets/custom-styles/general-custom-styles.php coyote_edge_h3_styles function */
+h3 { color: #000000;font-family: Lato;font-size: 15px;text-transform: uppercase;font-weight: 300;letter-spacing: 15px;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/assets/custom-styles/general-custom-styles.php coyote_edge_h4_styles function */
+h4 { font-family: Lato;font-size: 20px;line-height: 45px;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/assets/custom-styles/general-custom-styles.php coyote_edge_h5_styles function */
+h5, .woocommerce .edgtf-product-list-title-holder h5.edgtf-product-list-product-title, .edgtf-woocommerce-page .edgtf-product-list-title-holder h5.edgtf-product-list-product-title { color: #ffffff;font-family: Fjalla One;font-size: 20px;line-height: 25px;text-transform: uppercase;font-weight: 100;letter-spacing: 1px;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/assets/custom-styles/general-custom-styles.php coyote_edge_text_styles function */
+p { color: #ffffff;font-family: Lato;font-size: 14.5px;line-height: 19px;letter-spacing: 0.25px;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/assets/custom-styles/general-custom-styles.php coyote_edge_404_styles function */
+.error404 .edgtf-content .edgtf-container { background-image: url(http://localhost/wp-content/themes/coyote/assets/css/img/image404.jpg);}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/contactform7/custom-styles/contact-form.php coyote_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-webkit-input-placeholder { color: #ffffff;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/contactform7/custom-styles/contact-form.php coyote_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-moz-placeholder { color: #ffffff;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/contactform7/custom-styles/contact-form.php coyote_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-moz-placeholder { color: #ffffff;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/contactform7/custom-styles/contact-form.php coyote_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-ms-input-placeholder { color: #ffffff;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/contactform7/custom-styles/contact-form.php coyote_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #ffffff;font-size: 15px;font-family: Lato;font-weight: 400;text-transform: uppercase;letter-spacing: 3px;background-color: rgba(0, 0, 0, .1);border-color: rgba(255, 255, 255, .5);}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/contactform7/custom-styles/contact-form.php coyote_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { background-color: rgba(0, 0, 0, .3);border-color: rgba(255, 255, 255, .5);}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/contactform7/custom-styles/contact-form.php coyote_edge_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 15px;font-family: Lato;font-weight: 400;background-color: rgba(0, 0, 0, .1);border-color: rgba(255, 255, 255, .5);}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/contactform7/custom-styles/contact-form.php coyote_edge_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(0, 0, 0, .3);border-color: rgba(255, 255, 255, .5);}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/contactform7/custom-styles/contact-form.php coyote_edge_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { font-weight: 400;letter-spacing: 3px;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/header/custom-styles/header.php coyote_edge_header_centered_menu_area_styles function */
+.edgtf-header-centered .edgtf-page-header .edgtf-logo-wrapper a { max-height: 49px;}
+
+/* generated in /Users/dylanclarey/Documents/Repos/Nangwa-Local-Site/wp-content/themes/coyote/framework/modules/header/custom-styles/header.php coyote_edge_header_centered_menu_area_styles function */
+.edgtf-header-centered .edgtf-page-header .edgtf-menu-area { background-color: rgba(0, 0, 0, .1);height: 55px;}
+
+            .edgtf-main-menu.edgtf-default-nav > ul > li > a,
+            .edgtf-page-header #lang_sel > ul > li > a,
+            .edgtf-page-header #lang_sel_click > ul > li > a,
+            .edgtf-page-header #lang_sel ul > li:hover > a{
+                                        font-family: 'Lato', sans-serif;
+                                                                                    }
+        
+                    .edgtf-page-header #lang_sel_list{
+            font-family: 'Lato', sans-serif !important;
+            }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+        
+        
+        
+        
+        
+        
+        
+                
+                
